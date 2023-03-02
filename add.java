@@ -12,3 +12,4 @@ public class JavaExample {
     System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
   }
 }
+
